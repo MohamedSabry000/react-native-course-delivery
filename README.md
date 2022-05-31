@@ -42,3 +42,14 @@ in case of yarn:
 
 [Documentation](https://reactnative.dev/docs/getting-started)
 
+## Some Additional Info
+
+* android/app/src/main/res folder has the default app icon
+```bash
+
+    72*72 ic_launcher.png in mipmap-hdpi.
+    48*48 ic_launcher.png in mipmap-mdpi.
+    96*96 ic_launcher.png in mipmap-xhdpi.
+    144*144 ic_launcher.png in mipmap-xxhdpi.
+    192*192 ic_launcher.png in mipmap-xxxhdpi
+```
